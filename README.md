@@ -1,6 +1,6 @@
 # 2a_Stop_and_Wait_Protocol
 ### NAME : KARUNIYA M
-### REG NO : 212223240067
+### REG NO : 212223240068
 ## AIM 
 To write a python program to perform stop and wait protocol
 ## ALGORITHM
